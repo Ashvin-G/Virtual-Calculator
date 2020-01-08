@@ -4,7 +4,7 @@
 Virtual Calculator is a calculator which will perform basic Arithmetic operation without keyboard intervention. All you have to do is place your finger(anything blue colored) on particular button display this will result in clicking corresponding button.
 
 ### Prerequisites
-The Program is written in Python 3.7 and excludes two external Library for Image Processing.
+The Program is written in Python 3.7 and includes two external Library for Image Processing.
 
 1. OpenCV
 2. Numpy
