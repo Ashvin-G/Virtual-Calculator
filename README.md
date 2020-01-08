@@ -21,6 +21,7 @@ The Video frames undergoes several image processing operation in order to detect
 You can clear the operand list by hovering on C button.
 
 ### Demo
+![](demo/demo.gif)
 
 
 # Future Work
