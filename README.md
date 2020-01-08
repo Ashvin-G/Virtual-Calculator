@@ -24,5 +24,5 @@ You can clear the operand list by hovering on C button.
 ![](demo/demo.gif)
 
 
-# Future Work
+### Future Work
 This calculator is basic one, it only works with single digit number. Improvements such as ability to add any number of digits number and other improvements such as operand followed by operator and then operand can be implemented.
